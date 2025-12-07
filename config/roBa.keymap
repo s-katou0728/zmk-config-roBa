@@ -69,8 +69,8 @@
             key-positions = <20 21>;
         };
 
-        eq {
-            bindings = <&kp EQUAL>;
+        JP_UNDERSCORE {
+            bindings = <&kp JP_UNDERSCORE>;
             key-positions = <24 25>;
         };
     };
